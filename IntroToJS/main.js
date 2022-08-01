@@ -82,7 +82,7 @@ Example  2 :
     Declare and Define
  */
 
-
+console.log("Hello There!")
 console.log(num) // undefined
 // Just In Time Compilation
 var num = 1 ; // Global Scope
